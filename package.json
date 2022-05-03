@@ -1,0 +1,22 @@
+{
+  "name": "NodeJS_MongoDB",
+  "version": "1.0.0",
+  "author": "Novikova Anna",
+  "description": "Code d'une application écrite en NodeJS, Express et Mongo pour travailler avec la base de données NoSQL MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "open": "start http://localhost:3000/prods",
+    "start": "npm run open && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "express-session": "^1.17.2",
+    "mongodb": "^4.1.4"
+  }
+}

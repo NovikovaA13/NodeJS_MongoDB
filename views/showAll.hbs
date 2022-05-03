@@ -1,0 +1,12 @@
+<p style="color:red">{{ flushMessage }}</p>
+<table border="1">
+    {{#each prods}}
+        <tr>
+            <td>{{ _id }}</td>
+            <td>{{ name }}</td>
+            <td>{{ cost }}$</td>
+            <td>rest: {{ rest }}</td>
+            <td><a href="/prod/{{_id}}">Voir</a></td>
+        </tr>
+    {{/each}}
+</table>

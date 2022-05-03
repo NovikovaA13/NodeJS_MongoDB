@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "618e7d41f12dab4fd3cf6102"
+  },
+  "name": "prod3",
+  "cost": 200,
+  "rest": 10
+},{
+  "_id": {
+    "$oid": "618fd34bf12dab4fd3cf612f"
+  },
+  "name": "prod1",
+  "cost": 100,
+  "rest": 10
+},{
+  "_id": {
+    "$oid": "618fd34bf12dab4fd3cf6130"
+  },
+  "name": "prod2",
+  "cost": 100,
+  "rest": 10
+},{
+  "_id": {
+    "$oid": "618fd34bf12dab4fd3cf6131"
+  },
+  "name": "prod3",
+  "cost": 200,
+  "rest": 10
+},{
+  "_id": {
+    "$oid": "618fd34bf12dab4fd3cf6132"
+  },
+  "name": "prod4",
+  "cost": 300,
+  "rest": 20
+},{
+  "_id": {
+    "$oid": "618fd34bf12dab4fd3cf6133"
+  },
+  "name": "prod5",
+  "cost": 300,
+  "rest": 30
+},{
+  "_id": {
+    "$oid": "618fdb551abe009ae33cf8e2"
+  },
+  "name": "prod11",
+  "cost": "120",
+  "rest": "56"
+},{
+  "_id": {
+    "$oid": "618fffd41b46e2480a70b43c"
+  },
+  "name": "new Produit",
+  "cost": "1000",
+  "rest": "100"
+}]
